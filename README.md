@@ -1,35 +1,56 @@
 # DSport - Gestión de Ventas Deportivas 🏅
 
-**DSport** es una aplicación de escritorio robusta diseñada para gestionar el ciclo completo de ventas en una tienda de productos deportivos. Con funcionalidades avanzadas como la visualización de estadísticas 📊, gestión de inventarios 🏷️ y seguimiento del historial de ventas 📜, esta herramienta permite a los administradores de tiendas optimizar sus operaciones diarias.
+![DSport](assets/home.png)
+
+**DSport** es una aplicación de escritorio robusta diseñada para gestionar el ciclo completo de ventas en una tienda de productos deportivos. Con funcionalidades avanzadas como la visualización de estadísticas 📊, gestión de inventarios 🏷️ y seguimiento del historial de ventas 🐜, esta herramienta permite a los administradores de tiendas optimizar sus operaciones diarias.
 
 ## Características 🌟
 
 - **Gráfico de Ventas 📈**: Visualiza las ventas mensuales en un gráfico interactivo para obtener información clave sobre el rendimiento de la tienda.
-- **Gestión de Productos 🛍️**: Añade, edita o elimina productos de la base de datos de manera sencilla.
+- **Gestión de Productos 🛒**: Añade, edita o elimina productos de la base de datos de manera sencilla.
 - **Ventas Rápidas 💨**: Realiza ventas de forma rápida y precisa, con actualización instantánea del inventario.
 - **Historial de Ventas 🏆**: Consulta todos los registros de ventas pasadas con detalles completos de cada transacción.
-- **Almacén de Productos 🏬**: Gestiona el stock de productos de manera eficiente, asegurando que siempre haya disponibilidad en la tienda.
+- **Almacén de Productos 🏫**: Gestiona el stock de productos de manera eficiente, asegurando que siempre haya disponibilidad en la tienda.
 - **Interfaz Intuitiva 🎮**: Interfaz gráfica fácil de usar, con panel lateral que permite navegar entre las diferentes secciones de la aplicación.
 
 ## Tecnologías Utilizadas ⚙️
 
 - **C#** - Lenguaje principal para el desarrollo de la aplicación.
 - **Windows Forms 🖥️** - Framework para la creación de interfaces gráficas de usuario.
-- **Excel (ClosedXML) 📑** - Para la manipulación de datos de ventas y productos desde archivos Excel.
+- **Excel (ClosedXML) 💑** - Para la manipulación de datos de ventas y productos desde archivos Excel.
 - **Charts 📊** - Para la visualización de gráficos interactivos.
 
-## Estructura del Proyecto 🏗️
+## Estructura del Proyecto 🌇
 
-La estructura de la aplicación está organizada en módulos claros que abarcan cada una de las funcionalidades principales:
+### Home 🏠
+![Home](assets/home.png)
 
-- **Home 🏠**: Vista principal de la aplicación, donde se visualiza el gráfico de ventas y se accede al resto de secciones.
-- **AddProduct ➕**: Formulario para agregar productos al inventario.
-- **Sale 💳**: Formulario para registrar ventas y actualizar la base de datos.
-- **HistorySales 📜**: Historial completo de las ventas realizadas en la tienda.
-- **Storage 📦**: Módulo para administrar el inventario de productos.
-- **LoginRegister 🔐**: Sistema de inicio de sesión y registro de usuarios.
+Vista principal de la aplicación, donde se visualiza el gráfico de ventas y se accede al resto de secciones.
 
-Cada módulo se encuentra encapsulado en su propia clase y utiliza controles estándar de Windows Forms para facilitar la interacción con el usuario.
+### Añadir Producto ➕
+![Añadir Producto](assets/addproduct.png)
+
+Formulario para agregar productos al inventario.
+
+### Venta 💳
+![Venta](assets/sale.png)
+
+Formulario para registrar ventas y actualizar la base de datos.
+
+### Historial de Ventas 🐜
+![Historial de Ventas](assets/historysales.png)
+
+Historial completo de las ventas realizadas en la tienda.
+
+### Almacén 👦
+![Almacén](assets/storage.png)
+
+Módulo para administrar el inventario de productos.
+
+### Login & Registro 🔒
+![Login & Registro](assets/login-register.png)
+
+Sistema de inicio de sesión y registro de usuarios.
 
 ## Requisitos del Sistema 💻
 
@@ -39,9 +60,7 @@ Para ejecutar **DSport**, asegúrate de tener los siguientes requisitos:
 - **Microsoft Excel** 📊: Para trabajar con los archivos de base de datos de ventas y productos.
 - **Visual Studio 2019 o superior**: Para compilar y ejecutar el proyecto.
 
-## Instalación y Ejecución 🔧
-
-Sigue estos pasos para instalar y ejecutar **DSport** en tu máquina local:
+## Instalación y Ejecución 🛠️
 
 1. **Clona el repositorio**:
    ```bash
@@ -55,7 +74,7 @@ Sigue estos pasos para instalar y ejecutar **DSport** en tu máquina local:
 3. **Ejecuta la aplicación**:
    - Haz clic en el botón de **Iniciar** en Visual Studio para ejecutar el proyecto en modo local.
 
-## Base de Datos 🗂️
+## Base de Datos 📂
 
 La base de datos de productos y ventas está almacenada en un archivo **Excel** llamado `DSport-database.xlsx`, el cual debe encontrarse en la ruta `database/DSport-database.xlsx` dentro del proyecto. Este archivo almacena los productos y las transacciones de ventas, lo que permite la visualización de estadísticas y la gestión de inventarios.
 
@@ -63,7 +82,7 @@ La base de datos de productos y ventas está almacenada en un archivo **Excel** 
 
 ## Contribuciones 💡
 
-Las contribuciones son bienvenidas para mejorar y expandir las funcionalidades de **DSport**. Si deseas contribuir, por favor sigue estos pasos:
+Las contribuciones son bienvenidas para mejorar y expandir las funcionalidades de **DSport**. 
 
 1. **Haz un fork del repositorio**.
 2. **Crea una nueva rama**:
@@ -86,7 +105,7 @@ Por favor, asegúrate de que tu código esté correctamente documentado y sigue 
 
 Este proyecto está bajo la Licencia **MIT** - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-## Contacto 📬
+## Contacto 📨
 
 Para consultas o más información, puedes contactar a los desarrolladores del proyecto:
 
