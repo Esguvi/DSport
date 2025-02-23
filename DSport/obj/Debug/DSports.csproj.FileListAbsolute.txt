@@ -1,0 +1,321 @@
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\DSports.exe.config
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\DSports.exe
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\DSports.pdb
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\ClosedXML.dll
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\RBush.dll
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\System.Buffers.dll
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\System.Drawing.Common.dll
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\System.Memory.dll
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\ClosedXML.pdb
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\ClosedXML.xml
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\RBush.xml
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\System.Buffers.xml
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\System.Drawing.Common.xml
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\System.Memory.xml
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Victor\Desktop\DSports\DSports\DSports\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Victor\Desktop\DSports\DSports\DSports\obj\Debug\DSports.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\DSports\DSports\DSports\obj\Debug\DSports.Properties.Resources.resources
+C:\Users\Victor\Desktop\DSports\DSports\DSports\obj\Debug\DSports.csproj.GenerateResource.cache
+C:\Users\Victor\Desktop\DSports\DSports\DSports\obj\Debug\DSports.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\DSports\DSports\DSports\obj\Debug\DSports.csproj.Up2Date
+C:\Users\Victor\Desktop\DSports\DSports\DSports\obj\Debug\DSports.exe
+C:\Users\Victor\Desktop\DSports\DSports\DSports\obj\Debug\DSports.pdb
+C:\Users\Victor\Desktop\DSports\DSports\DSports\obj\Debug\DSports.LoginRegister.resources
+C:\Users\Victor\Desktop\DSports\DSports\DSports\obj\Debug\DSports.Home.resources
+C:\Users\Victor\Desktop\DSports\DSports\DSports\obj\Debug\DSports.Storage.resources
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\DSports.exe.config
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\DSports.exe
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\DSports.pdb
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\ClosedXML.dll
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\ClosedXML.Parser.dll
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\ExcelNumberFormat.dll
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\RBush.dll
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\SixLabors.Fonts.dll
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\System.Buffers.dll
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\System.Drawing.Common.dll
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\System.Memory.dll
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\ClosedXML.pdb
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\ClosedXML.xml
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\ClosedXML.Parser.xml
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\ExcelNumberFormat.xml
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\RBush.xml
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\SixLabors.Fonts.xml
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\System.Buffers.xml
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\System.Drawing.Common.pdb
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\System.Drawing.Common.xml
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\System.Memory.xml
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\victo\Desktop\DSports\DSports\DSports\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\victo\Desktop\DSports\DSports\DSports\obj\Debug\DSports.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\DSports\DSports\DSports\obj\Debug\DSports.Home.resources
+C:\Users\victo\Desktop\DSports\DSports\DSports\obj\Debug\DSports.LoginRegister.resources
+C:\Users\victo\Desktop\DSports\DSports\DSports\obj\Debug\DSports.Properties.Resources.resources
+C:\Users\victo\Desktop\DSports\DSports\DSports\obj\Debug\DSports.Storage.resources
+C:\Users\victo\Desktop\DSports\DSports\DSports\obj\Debug\DSports.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\DSports\DSports\DSports\obj\Debug\DSports.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\DSports\DSports\DSports\obj\Debug\DSports.csproj.Up2Date
+C:\Users\victo\Desktop\DSports\DSports\DSports\obj\Debug\DSports.exe
+C:\Users\victo\Desktop\DSports\DSports\DSports\obj\Debug\DSports.pdb
+C:\Users\victo\Desktop\DSports\DSports\DSports\obj\Debug\DSports.Almacen.resources
+C:\Users\victo\Desktop\DSports\DSports\obj\Debug\DSports.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\DSports\DSports\obj\Debug\DSports.exe
+C:\Users\victo\Desktop\DSports\DSports\obj\Debug\DSports.pdb
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\DSports.exe.config
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\DSports.exe
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\DSports.pdb
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\ClosedXML.dll
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\ClosedXML.Parser.dll
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\ExcelNumberFormat.dll
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\RBush.dll
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\SixLabors.Fonts.dll
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\System.Buffers.dll
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\System.Drawing.Common.dll
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\System.Memory.dll
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\ClosedXML.pdb
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\ClosedXML.xml
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\ClosedXML.Parser.xml
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\ExcelNumberFormat.xml
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\RBush.xml
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\SixLabors.Fonts.xml
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\System.Buffers.xml
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\System.Drawing.Common.pdb
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\System.Drawing.Common.xml
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\System.Memory.xml
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\victo\Desktop\DSports\DSports\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\victo\Desktop\DSports\DSports\obj\Debug\DSports.Home.resources
+C:\Users\victo\Desktop\DSports\DSports\obj\Debug\DSports.LoginRegister.resources
+C:\Users\victo\Desktop\DSports\DSports\obj\Debug\DSports.Properties.Resources.resources
+C:\Users\victo\Desktop\DSports\DSports\obj\Debug\DSports.Storage.resources
+C:\Users\victo\Desktop\DSports\DSports\obj\Debug\DSports.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\DSports\DSports\obj\Debug\DSports.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\DSports\DSports\obj\Debug\DSports.csproj.Up2Date
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\DSports.exe.config
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\DSports.exe
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\DSports.pdb
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\ClosedXML.dll
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\RBush.dll
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\System.Buffers.dll
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\System.Drawing.Common.dll
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\System.Memory.dll
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\ClosedXML.pdb
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\ClosedXML.xml
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\RBush.xml
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\System.Buffers.xml
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\System.Drawing.Common.xml
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\System.Memory.xml
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\obj\Debug\DSports.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\obj\Debug\DSports.Home.resources
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\obj\Debug\DSports.LoginRegister.resources
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\obj\Debug\DSports.Properties.Resources.resources
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\obj\Debug\DSports.Storage.resources
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\obj\Debug\DSports.csproj.GenerateResource.cache
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\obj\Debug\DSports.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\obj\Debug\DSports.csproj.Up2Date
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\obj\Debug\DSports.exe
+C:\Users\Victor\Desktop\DSports - copia\DSports\DSports\obj\Debug\DSports.pdb
+C:\Users\Victor\Desktop\DSports1\DSports\obj\Debug\DSports.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\DSports1\DSports\obj\Debug\DSports.Home.resources
+C:\Users\Victor\Desktop\DSports1\DSports\obj\Debug\DSports.LoginRegister.resources
+C:\Users\Victor\Desktop\DSports1\DSports\obj\Debug\DSports.Product.resources
+C:\Users\Victor\Desktop\DSports1\DSports\obj\Debug\DSports.Properties.Resources.resources
+C:\Users\Victor\Desktop\DSports1\DSports\obj\Debug\DSports.Storage.resources
+C:\Users\Victor\Desktop\DSports1\DSports\obj\Debug\DSports.csproj.GenerateResource.cache
+C:\Users\Victor\Desktop\DSports1\DSports\obj\Debug\DSports.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\DSports1\DSports\obj\Debug\DSports.exe
+C:\Users\Victor\Desktop\DSports1\DSports\obj\Debug\DSports.pdb
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\DSports.exe.config
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\DSports.exe
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\DSports.pdb
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\ClosedXML.dll
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\RBush.dll
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\System.Buffers.dll
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\System.Drawing.Common.dll
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\System.Memory.dll
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\ClosedXML.pdb
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\ClosedXML.xml
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\RBush.xml
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\System.Buffers.xml
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\System.Drawing.Common.xml
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\System.Memory.xml
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Victor\Desktop\DSports1\DSports\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Victor\Desktop\DSports1\DSports\obj\Debug\DSports.csproj.Up2Date
+C:\Users\Victor\Desktop\DSports1\DSports\obj\Debug\DSports.Sale.resources
+C:\Users\Victor\Desktop\DSports1\DSports\obj\Debug\DSports.AddProduct.resources
+C:\Users\victo\Desktop\DSports\DSports\obj\Debug\DSports.AddProduct.resources
+C:\Users\victo\Desktop\DSports\DSports\obj\Debug\DSports.Product.resources
+C:\Users\victo\Desktop\DSports\DSports\obj\Debug\DSports.Sale.resources
+E:\DSports\DSports\bin\Debug\DSports.exe.config
+E:\DSports\DSports\bin\Debug\DSports.exe
+E:\DSports\DSports\bin\Debug\DSports.pdb
+E:\DSports\DSports\bin\Debug\ClosedXML.dll
+E:\DSports\DSports\bin\Debug\ClosedXML.Parser.dll
+E:\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.dll
+E:\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\DSports\DSports\bin\Debug\ExcelNumberFormat.dll
+E:\DSports\DSports\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\DSports\DSports\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\DSports\DSports\bin\Debug\RBush.dll
+E:\DSports\DSports\bin\Debug\SixLabors.Fonts.dll
+E:\DSports\DSports\bin\Debug\System.Buffers.dll
+E:\DSports\DSports\bin\Debug\System.ComponentModel.Annotations.dll
+E:\DSports\DSports\bin\Debug\System.Drawing.Common.dll
+E:\DSports\DSports\bin\Debug\System.Memory.dll
+E:\DSports\DSports\bin\Debug\System.Numerics.Vectors.dll
+E:\DSports\DSports\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DSports\DSports\bin\Debug\ClosedXML.pdb
+E:\DSports\DSports\bin\Debug\ClosedXML.xml
+E:\DSports\DSports\bin\Debug\ClosedXML.Parser.xml
+E:\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.xml
+E:\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\DSports\DSports\bin\Debug\ExcelNumberFormat.xml
+E:\DSports\DSports\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\DSports\DSports\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\DSports\DSports\bin\Debug\RBush.xml
+E:\DSports\DSports\bin\Debug\SixLabors.Fonts.xml
+E:\DSports\DSports\bin\Debug\System.Buffers.xml
+E:\DSports\DSports\bin\Debug\System.Drawing.Common.pdb
+E:\DSports\DSports\bin\Debug\System.Drawing.Common.xml
+E:\DSports\DSports\bin\Debug\System.Memory.xml
+E:\DSports\DSports\bin\Debug\System.Numerics.Vectors.xml
+E:\DSports\DSports\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DSports\DSports\obj\Debug\DSports.csproj.AssemblyReference.cache
+E:\DSports\DSports\obj\Debug\DSports.AddProduct.resources
+E:\DSports\DSports\obj\Debug\DSports.Home.resources
+E:\DSports\DSports\obj\Debug\DSports.LoginRegister.resources
+E:\DSports\DSports\obj\Debug\DSports.Product.resources
+E:\DSports\DSports\obj\Debug\DSports.Properties.Resources.resources
+E:\DSports\DSports\obj\Debug\DSports.Sale.resources
+E:\DSports\DSports\obj\Debug\DSports.Storage.resources
+E:\DSports\DSports\obj\Debug\DSports.csproj.GenerateResource.cache
+E:\DSports\DSports\obj\Debug\DSports.csproj.CoreCompileInputs.cache
+E:\DSports\DSports\obj\Debug\DSports.csproj.Up2Date
+E:\DSports\DSports\obj\Debug\DSports.exe
+E:\DSports\DSports\obj\Debug\DSports.pdb
+D:\DSports\DSports\bin\Debug\DSports.exe.config
+D:\DSports\DSports\bin\Debug\DSports.exe
+D:\DSports\DSports\bin\Debug\DSports.pdb
+D:\DSports\DSports\bin\Debug\ClosedXML.dll
+D:\DSports\DSports\bin\Debug\ClosedXML.Parser.dll
+D:\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\DSports\DSports\bin\Debug\ExcelNumberFormat.dll
+D:\DSports\DSports\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\DSports\DSports\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DSports\DSports\bin\Debug\RBush.dll
+D:\DSports\DSports\bin\Debug\SixLabors.Fonts.dll
+D:\DSports\DSports\bin\Debug\System.Buffers.dll
+D:\DSports\DSports\bin\Debug\System.ComponentModel.Annotations.dll
+D:\DSports\DSports\bin\Debug\System.Drawing.Common.dll
+D:\DSports\DSports\bin\Debug\System.Memory.dll
+D:\DSports\DSports\bin\Debug\System.Numerics.Vectors.dll
+D:\DSports\DSports\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DSports\DSports\bin\Debug\ClosedXML.pdb
+D:\DSports\DSports\bin\Debug\ClosedXML.xml
+D:\DSports\DSports\bin\Debug\ClosedXML.Parser.xml
+D:\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DSports\DSports\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\DSports\DSports\bin\Debug\ExcelNumberFormat.xml
+D:\DSports\DSports\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\DSports\DSports\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\DSports\DSports\bin\Debug\RBush.xml
+D:\DSports\DSports\bin\Debug\SixLabors.Fonts.xml
+D:\DSports\DSports\bin\Debug\System.Buffers.xml
+D:\DSports\DSports\bin\Debug\System.Drawing.Common.pdb
+D:\DSports\DSports\bin\Debug\System.Drawing.Common.xml
+D:\DSports\DSports\bin\Debug\System.Memory.xml
+D:\DSports\DSports\bin\Debug\System.Numerics.Vectors.xml
+D:\DSports\DSports\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DSports\DSports\obj\Debug\DSports.csproj.AssemblyReference.cache
+D:\DSports\DSports\obj\Debug\DSports.AddProduct.resources
+D:\DSports\DSports\obj\Debug\DSports.Home.resources
+D:\DSports\DSports\obj\Debug\DSports.LoginRegister.resources
+D:\DSports\DSports\obj\Debug\DSports.Product.resources
+D:\DSports\DSports\obj\Debug\DSports.Properties.Resources.resources
+D:\DSports\DSports\obj\Debug\DSports.Sale.resources
+D:\DSports\DSports\obj\Debug\DSports.Storage.resources
+D:\DSports\DSports\obj\Debug\DSports.csproj.GenerateResource.cache
+D:\DSports\DSports\obj\Debug\DSports.csproj.CoreCompileInputs.cache
+D:\DSports\DSports\obj\Debug\DSports.csproj.Up2Date
+D:\DSports\DSports\obj\Debug\DSports.exe
+D:\DSports\DSports\obj\Debug\DSports.pdb
