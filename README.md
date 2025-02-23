@@ -45,7 +45,7 @@ Sigue estos pasos para instalar y ejecutar **DSport** en tu máquina local:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/DSport.git
+   git clone https://github.com/Esguvi/DSport.git
    ```
 
 2. **Abre el proyecto en Visual Studio**:
